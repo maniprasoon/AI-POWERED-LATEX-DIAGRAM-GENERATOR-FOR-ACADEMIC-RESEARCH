@@ -1,4 +1,4 @@
-# This Repository contains all the files that are related to my 4-Week internship as a AI & Cloud intern at IBM Edunet provided in association with AICTE. The attached files and Pdfs contains all the source files of the project.
+# This repository contains all the files related to my four-week internship as an AI and Cloud Intern at IBM Edunet, in collaboration with AICTE. The included files and PDFs comprise the source materials for my project.
 
 
 ## My Project ->> AI-Powered LaTeX Diagram Generator for Academic Research.  
