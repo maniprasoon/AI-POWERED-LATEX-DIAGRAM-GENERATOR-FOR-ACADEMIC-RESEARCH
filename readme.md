@@ -118,11 +118,17 @@ Improves Accessibility: Enables users without technical expertise to create prof
 ## Future scope
 
 **Voice-Controlled Diagram Generation** Enable hands-free interaction through speech-to-text input, enhancing accessibility and speeding up the design process.
+
 **Multilingual Command Support** Accept natural language inputs in multiple languages, empowering researchers worldwide to work in their preferred linguistic environment.
+
 **Seamless Overleaf Integration** Embed real-time TikZ diagram rendering and editing directly into Overleaf for streamlined LaTeX workflow management.
+
 **Context-Aware Diagram Suggestions** Automatically recommend suitable diagrams based on adjacent LaTeX content and semantic analysis of the document.
+
 **Real-Time Collaborative Editing** Facilitate simultaneous editing by multiple users, making it ideal for team-based research and co-authoring scenarios.
+
 **AI-Guided Layout Optimization** Provide intelligent layout suggestions to improve clarity, aesthetics, and readability of complex diagrams.
+
 **Multi-Format Export Capability Support** exports in TikZ, PNG, SVG, and PDF formats for flexible use across publications, presentations, and teaching materials.
 
 
