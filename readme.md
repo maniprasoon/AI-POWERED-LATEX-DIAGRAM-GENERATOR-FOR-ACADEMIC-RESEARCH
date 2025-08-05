@@ -1,8 +1,8 @@
 # This repository contains all the files related to my four-week internship as an AI and Cloud Intern at IBM Edunet, in collaboration with AICTE. The included files and PDFs comprise the source materials for my project.
 
 
-## My Project ->> AI-Powered LaTeX Diagram Generator for Academic Research.  
-     Create TikZ diagrams from plain English or sketches—instantly!  
+## My Project --> AI-Powered LaTeX Diagram Generator for Academic Research.  
+     Create TikZ diagrams from plain English or sketches—instantly using this Agent!  
 
 
 ## PROBLEM STATEMENT
