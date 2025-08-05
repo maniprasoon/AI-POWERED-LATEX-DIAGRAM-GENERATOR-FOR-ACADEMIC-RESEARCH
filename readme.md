@@ -84,7 +84,6 @@ Question 2 : Make a UML class diagram with classes: Car, ElectricCar, and Engi
 
 ![App Screenshot](https://res.cloudinary.com/ds8fnrk7s/image/upload/v1754386021/Screenshot_2025-08-05_133507_aawzn3.png)
 
-![App Screenshot](https://github.com/Adityasen-cmd/Edunet_Internship_2025/blob/main/Screenshots%20of%20project/Result%203%20TikZ.png?raw=true)
 
 
 ## Deployment
